@@ -1,4 +1,3 @@
-# license-plate-detection-website-code
 <!DOCTYPE html>
 <html>
 
